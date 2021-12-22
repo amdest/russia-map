@@ -1,0 +1,86 @@
+ID_0,ISO_0,NAME_0,ID_1,NAME_1,NL_NAME_1,VARNAME_1,TYPE_1,ENGTYPE_1,ISO_1,OKATO,OKTMO,GOST,cartodb_id,created_at,updated_at,name_latin
+186,RUS,Russia,10,Buryat,Республика Бурятия,ДФО,республика,Republic,RU-BU,81,81,RU-BU|RU-BUR,10,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Buryatia
+186,RUS,Russia,28,Karachay-Cherkess,Карачаево-Черкесская Республика,СКФО,республика,Republic,RU-KC,91,91,RU-KK|RU-KAO,13,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Karachay-Cherkess Republic
+186,RUS,Russia,66,Sakhalin,Сахалинская область,ДФО,область,Region,RU-SAK,64,64,RU-SAK,11,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Sakhalin Oblast
+186,RUS,Russia,86,Voronezh,Воронежская область,ЦФО,область,Region,RU-VOR,20,20,RU-VOR,16,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Voronezh Oblast
+186,RUS,Russia,75,Tomsk,Томская область,СФО,область,Region,RU-TOM,69,69,RU-TOM,18,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Tomsk Oblast
+186,RUS,Russia,55,Novosibirsk,Новосибирская область,СФО,область,Region,RU-NVS,50,50,RU-NVS,19,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Novosibirsk Oblast
+186,RUS,Russia,51,Nenets,Ненецкий автономный округ,СЗФО,автономный округ,Autonomous Province,RU-NEN,111,118,RU-NEN,3,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Nenets Autonomous Okrug
+186,RUS,Russia,61,Primor'ye,Приморский край,ДФО,край,Territory,RU-PRI,05,05,RU-PRI,12,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Primorsky Krai
+186,RUS,Russia,70,Stavropol',Ставропольский край,СКФО,край,Territory,RU-STA,07,07,RU-STA,15,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Stavropol Krai
+186,RUS,Russia,3,Altay,Алтайский край,СФО,край,Territory,RU-ALT,01,01,RU-ALT,17,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Altai Krai
+186,RUS,Russia,48,Moscow City,г. Москва,ЦФО,город федерального значения,City,RU-MOW,45,45,RU-MS|RU-MOW,42,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Moscow
+186,RUS,Russia,77,Tyva,Республика Тыва,СФО,республика,Republic,RU-TY,93,93,RU-TY|RU-TYV,76,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Tyva Republic
+186,RUS,Russia,72,Tambov,Тамбовская область,ЦФО,область,Region,RU-TAM,68,68,RU-TAM,73,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Tambov Oblast
+186,RUS,Russia,71,Sverdlovsk,Свердловская область,УФО,область,Region,RU-SVE,65,65,RU-SVE,72,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Sverdlovsk Oblast
+186,RUS,Russia,33,Khanty-Mansiy,Ханты-Мансийский автономный округ - Югра,УФО,автономный округ,Autonomous Province,RU-KHM,71100,718,RU-KHM,71,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Khanty-Mansi Autonomous Okrug - Yugra
+186,RUS,Russia,14,Chukot,Чукотский автономный округ,ДФО,автономный округ,Autonomous Province,RU-CHU,77,77,RU-CHU,68,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Chukotka Autonomous Okrug
+186,RUS,Russia,79,Tyumen',Тюменская область,УФО,область,Region,RU-TYU,71,71,RU-TYU,20,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Tyumen Oblast
+186,RUS,Russia,83,Vladimir,Владимирская область,ЦФО,область,Region,RU-VLA,17,17,RU-VLA,22,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Vladimir Oblast
+186,RUS,Russia,49,Moskva,Московская область,ЦФО,область,Region,RU-MOS,46,46,RU-MOS,23,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Moscow Oblast
+186,RUS,Russia,84,Volgograd,Волгоградская область,ЮФО,область,Region,RU-VGG,18,18,RU-VGG,29,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Volgograd Oblast
+186,RUS,Russia,58,Orenburg,Оренбургская область,ПФО,область,Region,RU-ORE,53,53,RU-ORE,30,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Orenburg Oblast
+186,RUS,Russia,67,Samara,Самарская область,ПФО,область,Region,RU-SAM,36,36,RU-SAM,31,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Samara Oblast
+186,RUS,Russia,6,Astrakhan',Астраханская область,ЮФО,область,Region,RU-AST,12,12,RU-AST,33,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Astrakhan Oblast
+186,RUS,Russia,1,Adygey,Республика Адыгея,ЮФО,республика,Republic,RU-AD,79,79,RU-AD|RU-ADY,37,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Adygea
+186,RUS,Russia,25,Kalmyk,Республика Калмыкия,ЮФО,республика,Republic,RU-KL,85,85,RU-KI|RU-KAI,38,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Kalmykia
+186,RUS,Russia,39,Krasnodar,Краснодарский край,ЮФО,край,Territory,RU-KDA,3,3,RU-KRA,39,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Krasnodar Krai
+186,RUS,Russia,63,Rostov,Ростовская область,ЮФО,область,Region,RU-ROS,60,60,RU-ROS,40,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Rostov Oblast
+186,RUS,Russia,50,Murmansk,Мурманская область,СЗФО,область,Region,RU-MUR,47,47,RU-MUR,43,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Murmansk Oblast
+186,RUS,Russia,62,Pskov,Псковская область,СЗФО,область,Region,RU-PSK,58,58,RU-PSK,44,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Pskov Oblast
+186,RUS,Russia,16,City of St. Petersburg,г. Санкт-Петербург,СЗФО,город федерального значения,City,RU-SPE,40,40,RU-SP|RU-SPB,45,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Saint Petersburg
+186,RUS,Russia,47,Mordovia,Республика Мордовия,ПФО,республика,Republic,RU-MO,89,89,RU-MO|RU-MOR,48,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Mordovia
+186,RUS,Russia,34,Kirov,Кировская область,ПФО,область,Region,RU-KIR,33,33,RU-KIR,52,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kirov Oblast
+186,RUS,Russia,38,Kostroma,Костромская область,ЦФО,область,Region,RU-KOS,34,34,RU-KOS,53,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kostroma Oblast
+186,RUS,Russia,78,Tver',Тверская область,ЦФО,область,Region,RU-TVE,28,28,RU-TVE,54,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Tver Oblast
+186,RUS,Russia,76,Tula,Тульская область,ЦФО,область,Region,RU-TUL,70,70,RU-TUL,65,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Tula Oblast
+186,RUS,Russia,26,Kaluga,Калужская область,ЦФО,область,Region,RU-KLU,29,29,RU-KAL,64,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kaluga Oblast
+186,RUS,Russia,46,Mariy El,Республика Марий Эл,ПФО,республика,Republic,RU-ME,88,88,RU-ME|RU-MAR,60,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Mari El Republic
+186,RUS,Russia,69,Smolensk,Смоленская область,ЦФО,область,Region,RU-SMO,66,66,RU-SMO,58,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Smolensk Oblast
+186,RUS,Russia,22,Ivanovo,Ивановская область,ЦФО,область,Region,RU-IVA,24,24,RU-IVA,57,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Ivanovo Oblast
+186,RUS,Russia,53,North Ossetia,Республика Северная Осетия - Алания,СКФО,республика,Republic,RU-SE,90,90,RU-NO|RU-NOR,35,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of North Ossetia-Alania
+186,RUS,Russia,9,Bryansk,Брянская область,ЦФО,область,Region,RU-BRY,15,15,RU-BRY,27,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Bryansk Oblast
+186,RUS,Russia,59,Penza,Пензенская область,ПФО,область,Region,RU-PNZ,56,56,RU-PNZ,28,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Penza Oblast
+186,RUS,Russia,8,Belgorod,Белгородская область,ЦФО,область,Region,RU-BEL,14,14,RU-BEL,26,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Belgorod Oblast
+186,RUS,Russia,44,Lipetsk,Липецкая область,ЦФО,область,Region,RU-LIP,42,42,RU-LIP,6,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Lipetsk Oblast
+186,RUS,Russia,52,Nizhegorod,Нижегородская область,ПФО,область,Region,RU-NIZ,22,22,RU-NIZ,62,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Nizhny Novgorod Oblast
+186,RUS,Russia,41,Kurgan,Курганская область,УФО,область,Region,RU-KGN,37,37,RU-KUG,1,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kurgan Oblast
+186,RUS,Russia,42,Kursk,Курская область,ЦФО,область,Region,RU-KRS,38,38,RU-KUR,5,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kursk Oblast
+186,RUS,Russia,13,Zabaikalskiy Krai,Забайкальский край,ДФО,край,Territory,RU-ZAB,76,76,RU-ZAB,9,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Zabaykalsky Krai
+186,RUS,Russia,19,Gorno-Altay,Республика Алтай,СФО,республика,Republic,RU-AL,84,84,RU-AL|RU-ALI,77,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Altai Republic
+186,RUS,Russia,64,Ryazan',Рязанская область,ЦФО,область,Region,RU-RYA,61,61,RU-RYA,74,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Ryazan Oblast
+186,RUS,Russia,17,Dagestan,Республика Дагестан,СКФО,республика,Republic,RU-DA,82,82,RU-DA|RU-DAG,14,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Dagestan
+186,RUS,Russia,56,Omsk,Омская область,СФО,область,Region,RU-OMS,52,52,RU-OMS,21,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Omsk Oblast
+186,RUS,Russia,36,Komi,Республика Коми,СЗФО,республика,Republic,RU-KO,87,87,RU-KO|RU-KOM,25,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Komi Republic
+186,RUS,Russia,11,Chechnya,Чеченская Республика,СКФО,республика,Republic,RU-CE,96,96,RU-CE|RU-CHA,32,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Chechen Republic
+186,RUS,Russia,23,Kabardin-Balkar,Кабардино-Балкарская Республика,СКФО,республика,Republic,RU-KB,83,83,RU-KB|RU-KAB,36,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kabardino-Balkar Republic
+186,RUS,Russia,68,Saratov,Саратовская область,ПФО,область,Region,RU-SAR,63,63,RU-SAR,41,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Saratov Oblast
+186,RUS,Russia,24,Kaliningrad,Калининградская область,СЗФО,область,Region,RU-KGD,27,27,RU-KAG,47,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kaliningrad Oblast
+186,RUS,Russia,57,Orel,Орловская область,ЦФО,область,Region,RU-ORL,54,54,RU-ORL,51,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Oryol Oblast
+186,RUS,Russia,29,Karelia,Республика Карелия,СЗФО,республика,Republic,RU-KR,86,86,RU-KL|RU-KAR,83,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Karelia
+186,RUS,Russia,21,Irkutsk,Иркутская область,СФО,область,Region,RU-IRK,25,25,RU-IRK,82,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Irkutsk Oblast
+186,RUS,Russia,4,Amur,Амурская область,ДФО,область,Region,RU-AMU,10,10,RU-AMU,81,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Amur Oblast
+186,RUS,Russia,89,Yevrey,Еврейская автономная область,ДФО,автономная область,Autonomous Region,RU-YEV,99,99,RU-JEW,80,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Jewish Autonomous Oblast
+186,RUS,Russia,31,Khabarovsk,Хабаровский край,ДФО,край,Territory,RU-KHA,08,08,RU-KHA,79,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Khabarovsk Krai
+186,RUS,Russia,30,Kemerovo,Кемеровская область,СФО,область,Region,RU-KEM,32,32,RU-KEM,78,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kemerovo Oblast
+186,RUS,Russia,32,Khakass,Республика Хакасия,СФО,республика,Republic,RU-KK,95,95,RU-KN|RU-KHK,75,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Khakassia
+186,RUS,Russia,88,Yaroslavl',Ярославская область,ЦФО,область,Region,RU-YAR,78,78,RU-YAR,66,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Yaroslavl Oblast
+186,RUS,Russia,85,Vologda,Вологодская область,СЗФО,область,Region,RU-VLG,19,19,RU-VLG,55,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Vologda Oblast
+186,RUS,Russia,20,Ingush,Республика Ингушетия,СКФО,республика,Republic,RU-IN,26,26,RU-IN|RU-ING,34,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Ingushetia
+186,RUS,Russia,12,Chelyabinsk,Челябинская область,УФО,область,Region,RU-CHE,75,75,RU-CHE,24,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Chelyabinsk Oblast
+186,RUS,Russia,7,Bashkortostan,Республика Башкортостан,ПФО,республика,Republic,RU-BA,80,80,RU-BA|RU-BAS,61,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Bashkortostan
+186,RUS,Russia,5,Arkhangel'sk,Архангельская область,СЗФО,область,Region,RU-ARK,11,11,RU-ARK,2,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Arkhangelsk Oblast
+186,RUS,Russia,54,Novgorod,Новгородская область,СЗФО,область,Region,RU-NGR,49,49,RU-NGR,4,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Novgorod Oblast
+186,RUS,Russia,43,Leningrad,Ленинградская область,СЗФО,область,Region,RU-LEN,41,41,RU-LEN,46,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Leningrad Oblast
+186,RUS,Russia,60,Perm',Пермский край,ПФО,край,Territory,RU-PER,57,57,RU-PER,56,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Perm Krai
+186,RUS,Russia,80,Udmurt,Удмуртская Республика,ПФО,республика,Republic,RU-UD,94,94,RU-UD|RU-UDM,59,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Udmurt Republic
+186,RUS,Russia,73,Tatarstan,Республика Татарстан,ПФО,республика,Republic,RU-TA,92,92,RU-TA|RU-TAT,50,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Tatarstan
+186,RUS,Russia,81,Ul'yanovsk,Ульяновская область,ПФО,область,Region,RU-ULY,73,73,RU-ULY,63,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Ulyanovsk Oblast
+186,RUS,Russia,15,Chuvash,Чувашская Республика,ПФО,республика,Republic,RU-CU,97,97,RU-CU|RU-CHV,49,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Chuvash Republic
+186,RUS,Russia,87,Yamal-Nenets,Ямало-Ненецкий автономный округ,УФО,автономный округ,Autonomous Province,RU-YAN,71140,719,RU-YAN,70,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Yamalo-Nenets Autonomous Okrug
+186,RUS,Russia,40,Krasnoyarsk,Красноярский край,СФО,край,Territory,RU-KYA,04,04,RU-KYA,69,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Krasnoyarsk Krai
+186,RUS,Russia,45,Maga Buryatdan,Магаданская область,ДФО,область,Region,RU-MAG,44,44,RU-MAG,7,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Magadan Oblast
+186,RUS,Russia,27,Kamchatka,Камчатский край,ДФО,край,Territory,RU-KAM,30,30,RU-KAM,8,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Kamchatka Krai
+186,RUS,Russia,65,Sakha,Республика Саха (Якутия),ДФО,республика,Republic,RU-SA,98,98,RU-SA|RU-SAH,67,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Sakha (Yakutia) Republic
+186,RUS,Russia,200,Sevastopol',г. Севастополь,ЮФО,город федерального значения,City,UA-40,67,67,RU-SEV,,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,City of Sevastopol
+186,RUS,Russia,400,Crimea,Республика Крым,ЮФО,республика,Republic,UA-43,35,35,RU-CRY,,2021-12-22T17:20:00+0300,2021-12-22T18:20:00+0300,Republic of Crimea
